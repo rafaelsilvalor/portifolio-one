@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.krona-one-regular {
+    font-family: "Krona One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.montserrat-p {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.style-p {
+    padding: 40 0;
+}
+
+.montserrat-link {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: #ffffff;
+}
+
+.div-buttom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttom-link {
+    font-size: 24px;
+    background-color: #22D4FD;
+    border-radius: 16px;
+    text-align: center;
+    width: 280px;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #000000;
+
+}
+
+.strong-title {
+    color: #22D4FD;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10% 26%;
+}
+
+.section-1-conteudo {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+
+.titulo-conteudo {
+    font-size: 36px;
+}
+
+.texto-conteudo {
+    font-size: 24px;
+}
