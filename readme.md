@@ -46,7 +46,7 @@ Foi uma experiência incrível começar essa página, e mal posso esperar para c
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/rafaelsilvalor/portifolio-one
    ```
 2. Abra o arquivo `index.html` no navegador.
 
